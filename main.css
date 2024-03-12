@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v5_2 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  margin: 10px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v13_6 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v13_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v13_7 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v13_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_5 {
+  width: 913px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 358px;
+  left: 228px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: New Romantics;
+  font-weight: Regular;
+  font-size: 180px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_52 {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 58px;
+  left: 530px;
+  font-family: Bebas Neue;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_53 {
+  width: 89px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 58px;
+  left: 640px;
+  font-family: Bebas Neue;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_54 {
+  width: 150px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 58px;
+  left: 741px;
+  font-family: Bebas Neue;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
